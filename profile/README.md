@@ -1,42 +1,39 @@
-# 🦉 OWLCode
-**Engenharia de Software que Transforma Complexidade em Performance.**
+<div align="center">
+  <img src="https://owlcode.io/logo.png" alt="OWLCode Logo" width="120" />
+  <h1>OWLCode Engineering</h1>
+  <p><i>Esculpindo código. Construindo o futuro.</i></p>
 
-Somos uma **Software Boutique** especializada em arquiteturas complexas, integrações de sistemas de alta criticidade e automação (RPA). Na OWLCode, não competimos por preço; competimos por excelência técnica. Nosso propósito é entregar "Software como Ativo": sistemas projetados com arquitetura limpa, alta performance, segurança desde a concepção (Security by Design) e escalabilidade real.
-
----
-
-## 🚀 Nossa Expertise
-
-Atuamos como parceiros tecnológicos estratégicos, focando na resolução definitiva de gargalos operacionais através de engenharia de ponta:
-
-* **Arquitetura de Sistemas & Backend:** Modelagem de domínios complexos, desenvolvimento de APIs robustas e arquiteturas orientadas a microsserviços.
-* **Desenvolvimento Fullstack Sob Medida:** Criação de ecossistemas completos e plataformas escaláveis utilizando as tecnologias mais modernas do mercado.
-* **RPA & Automação:** Redução de custos operacionais e eliminação de erros manuais através de bots inteligentes e automação de fluxos empresariais críticos.
-* **Engenharia de Dados:** Processamento de grandes volumes de dados, inferências complexas e cruzamento de bases para tomada de decisão.
-* **Produtos SaaS:** Desenvolvimento e incubação de produtos próprios, com foco em nichos específicos como saúde e gestão.
-
-## 💻 Tech Stack Principal
-
-Nossas decisões tecnológicas são pautadas pela ferramenta certa para o problema certo, mantendo um alto padrão de qualidade, tipagem estrita e princípios SOLID:
-
-* **Frontend:** Next.js (App Router / Turbopack), Angular, React, Tailwind CSS, Framer Motion, Feature-Sliced Design (FSD).
-* **Backend & APIs:** NestJS, TypeScript, Python (Django, FastAPI), Go.
-* **Banco de Dados & Dados:** SQL Server, Neo4j (Grafos), Apache Spark, Airflow.
-* **Infraestrutura & Cloud:** Firebase (Auth, Hosting, Firestore), Docker, Linux, Cloudflare, CI/CD automatizado.
-
-## 📦 Produtos & Iniciativas
-
-* 🩺 **VitalisHub (Beta):** Plataforma SaaS de alta performance para gestão de saúde e experiência do paciente.
-* 🔍 **Projeto Argos:** Engenharia de dados e processamento complexo focados em inferência de parentesco e análise de grafos.
-* 🤖 **FlowBot (Em breve):** Soluções avançadas em automação.
-* 🏢 **OWLAssess (Em desenvolvimento):** Ferramenta de assessment técnico e arquitetural.
-
-## 🤝 Trabalhe Conosco
-
-Ajudamos empresas a acelerar seus roadmaps internos através de alocação de especialistas (Outsourcing), projetos de escopo fechado, integrações profundas e serviços de sustentação (Ongoing).
-
-🔗 **Site Oficial:** [owlcode.io](https://owlcode.io)
-📫 **Contato:** contato@owlcode.io
+  <p>
+    <img src="https://img.shields.io/badge/Architecture-Clean--Arch-blue?style=for-the-badge" alt="Clean Arch" />
+    <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Security-By--Design-success?style=for-the-badge" alt="Security" />
+    <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Go%20%7C%20Python-black?style=for-the-badge" alt="Tech Stack" />
+  </p>
+</div>
 
 ---
-*Esculpindo código. Construindo o futuro.*
+
+### 🏛️ Manifesto de Engenharia
+
+Na **OWLCode**, operamos sob padrões de alta criticidade. Somos uma Software Boutique focada em resolver gargalos operacionais através de arquitetura de sistemas robusta, integração de dados e automação avançada. Não entregamos apenas código; entregamos "Software como Ativo".
+
+Nossas soluções seguem rigorosos processos de:
+* **Arquitetura Escalável:** Uso extensivo de Feature-Sliced Design (FSD), microsserviços e Clean Architecture.
+* **Automação & CI/CD:** Deploys contínuos e automatizados garantindo zero-downtime.
+* **Segurança Integrada (Security by Design):** Conformidade estrita com LGPD e proteção de dados em todas as camadas.
+
+### 📦 Produtos & Iniciativas em Destaque
+
+* 🩺 **VitalisHub:** Plataforma SaaS de alta performance para gestão de saúde e experiência do paciente.
+* 🔍 **Projeto Argos:** Engenharia de dados e Big Data focados em inferência de parentesco, utilizando PySpark e bancos de grafos (Neo4j).
+* 🤖 **FlowBot & RPA:** Automação de fluxos empresariais complexos para redução de custos e erros operacionais.
+
+### 💻 Stack Tecnológico
+
+Nossa engenharia é agnóstica e poliglota, escolhendo a ferramenta ideal para cada problema:
+- **Frontend:** Next.js (App Router), React, Angular, Tailwind CSS.
+- **Backend/APIs:** NestJS, Python (Django, FastAPI), Go.
+- **Data & Ops:** SQL Server, Apache Airflow, Docker, Firebase, Cloudflare.
+
+---
+🔗 **Website:** [owlcode.io](https://owlcode.io) | 📫 **Contato:** contato@owlcode.io
