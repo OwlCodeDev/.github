@@ -35,8 +35,8 @@ Nossas decisões tecnológicas são pautadas pela ferramenta certa para o proble
 
 Ajudamos empresas a acelerar seus roadmaps internos através de alocação de especialistas (Outsourcing), projetos de escopo fechado, integrações profundas e serviços de sustentação (Ongoing).
 
-🔗 **Site Oficial:** [owlcode.com.br](https://owlcode.com.br)
-📫 **Contato:** contato@owlcode.com.br
+🔗 **Site Oficial:** [owlcode.io](https://owlcode.io)
+📫 **Contato:** contato@owlcode.io
 
 ---
 *Esculpindo código. Construindo o futuro.*
