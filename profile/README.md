@@ -1,39 +1,53 @@
 <div align="center">
-  <img src="https://owlcode.io/logo.png" alt="OWLCode Logo" width="120" />
-  <h1>OWLCode Engineering</h1>
-  <p><i>Esculpindo código. Construindo o futuro.</i></p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Architecture-Clean--Arch-blue?style=for-the-badge" alt="Clean Arch" />
-    <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Security-By--Design-success?style=for-the-badge" alt="Security" />
-    <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Go%20%7C%20Python-black?style=for-the-badge" alt="Tech Stack" />
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OwlCodeDev/.github/main/assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OwlCodeDev/.github/main/assets/logo-light.svg">
+  <img alt="OWLCode" src="https://raw.githubusercontent.com/OwlCodeDev/.github/main/assets/logo-light.svg" height="80">
+</picture>
+
+<br><br>
+
+**Software como ativo. Arquitetura como vantagem competitiva.**
+
+<br>
+
+<a href="https://owlcode.io">owlcode.io</a> &nbsp;·&nbsp;
+<a href="mailto:contato@owlcode.io">contato@owlcode.io</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/company/owlcodedev">LinkedIn</a>
+
+<br>
+
 </div>
 
 ---
 
-### 🏛️ Manifesto de Engenharia
+Somos uma **Software Boutique** brasileira especializada em arquitetura de sistemas robusta, automação avançada e produtos SaaS de alta criticidade. Não entregamos apenas código — entregamos software que escala, performa e gera valor ao longo do tempo.
 
-Na **OWLCode**, operamos sob padrões de alta criticidade. Somos uma Software Boutique focada em resolver gargalos operacionais através de arquitetura de sistemas robusta, integração de dados e automação avançada. Não entregamos apenas código; entregamos "Software como Ativo".
+<br>
 
-Nossas soluções seguem rigorosos processos de:
-* **Arquitetura Escalável:** Uso extensivo de Feature-Sliced Design (FSD), microsserviços e Clean Architecture.
-* **Automação & CI/CD:** Deploys contínuos e automatizados garantindo zero-downtime.
-* **Segurança Integrada (Security by Design):** Conformidade estrita com LGPD e proteção de dados em todas as camadas.
+## Stack
 
-### 📦 Produtos & Iniciativas em Destaque
+| Camada | Tecnologias |
+|--------|-------------|
+| Frontend | Next.js · React · Angular · Tailwind CSS |
+| Backend | NestJS · FastAPI · Django · Go |
+| Data | PySpark · Neo4j · SQL Server · Apache Airflow |
+| Infra | Docker · Firebase · Cloudflare |
 
-* 🩺 **VitalisHub:** Plataforma SaaS de alta performance para gestão de saúde e experiência do paciente.
-* 🔍 **Projeto Argos:** Engenharia de dados e Big Data focados em inferência de parentesco, utilizando PySpark e bancos de grafos (Neo4j).
-* 🤖 **FlowBot & RPA:** Automação de fluxos empresariais complexos para redução de custos e erros operacionais.
+<br>
 
-### 💻 Stack Tecnológico
+## Princípios de Engenharia
 
-Nossa engenharia é agnóstica e poliglota, escolhendo a ferramenta ideal para cada problema:
-- **Frontend:** Next.js (App Router), React, Angular, Tailwind CSS.
-- **Backend/APIs:** NestJS, Python (Django, FastAPI), Go.
-- **Data & Ops:** SQL Server, Apache Airflow, Docker, Firebase, Cloudflare.
+- **Clean Architecture** — baixo acoplamento, alta coesão, independência de frameworks
+- **Feature-Sliced Design** — organização de frontend previsível e escalável
+- **Security by Design** — LGPD compliance e proteção de dados em todas as camadas
+- **TypeScript Estrito** — `any` é proibido; tipos expressam o domínio
+
+<br>
 
 ---
-🔗 **Website:** [owlcode.io](https://owlcode.io) | 📫 **Contato:** contato@owlcode.io
+
+<div align="center">
+<sub>Feito com precisão · Brasil · <a href="https://owlcode.io">owlcode.io</a></sub>
+</div>
